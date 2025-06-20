@@ -1,4 +1,4 @@
-# Hey, I'm [Idyllize] 👋
+# Hey, I'm **Idyllize** 👋
 
 Solo developer building cool stuff on the web, with the help of AI 👀.
 
