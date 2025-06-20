@@ -21,7 +21,7 @@ Roku channel application
 
 ## Get in touch
 - 🐦 [X](https://twitter.com/selfatonements)
-- 💼 [Discord]([https://linkedin.com/in/yourprofile](https://discord.com/users/507693986081931274))
+- 💼 [Discord](https://discord.com/users/507693986081931274)
 
 ---
 *Always learning, always building.*
