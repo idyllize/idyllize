@@ -11,10 +11,10 @@ Solo developer building cool stuff on the web, with the help of AI 👀.
 
 ### 🎬 [MovieFinder](https://github.com/idyllize/MovieFinder)
 Movie discovery app with TMDB API integration  
-**Live Demo:** [https://idyllize.github.io/MovieFinder/](https://idyllize.github.io/MovieFinder/)
+**Active Site** [https://idyllize.github.io/MovieFinder/](https://moviefinder.xyz/)
 
 ### 📺 [KickRokuApp](https://github.com/idyllize/KickRokuApp)
-Roku channel application
+Roku Kick App
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idyllize&show_icons=true&theme=dark)
