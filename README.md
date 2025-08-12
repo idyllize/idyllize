@@ -11,7 +11,7 @@ Solo developer building cool stuff on the web, with the help of AI 👀.
 
 ### 🎬 [MovieFinder](https://github.com/idyllize/MovieFinder)
 Movie discovery app with TMDB API integration  
-**Active Site** [https://idyllize.github.io/MovieFinder/](https://moviefinder.xyz/)
+**Active Site** [https://moviefinder.xyz/](https://moviefinder.xyz/)
 
 ### 📺 [KickRokuApp](https://github.com/idyllize/KickRokuApp)
 Roku Kick App
