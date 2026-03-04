@@ -7,16 +7,6 @@ Solo developer building cool stuff on the web, with the help of AI 👀.
 - REST APIs
 - Responsive Design
 
-## Main Projects
-
-### 🎬 [MovieFinder](https://github.com/idyllize/MovieFinderInfo)
-  
- - Zero Ad Movie discovery app with TMDB API integration 
- 
-**Active Site** [https://moviefinder.xyz/](https://moviefinder.xyz/)
-
-### 📺 [KickRokuApp](https://github.com/idyllize/KickRokuApp)
-Roku Kick App
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idyllize&show_icons=true&theme=dark)
